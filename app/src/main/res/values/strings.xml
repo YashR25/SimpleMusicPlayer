@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SimpleMusicPlayer</string>
+    <string name="notification_channel">notification_channel</string>
+    <string name="notification_channel_description">notification_channel_description</string>
+    <string name="generic_error">generic_error</string>
+    <string name="stringerror_media_not_found">stringerror_media_not_found</string>
 </resources>
